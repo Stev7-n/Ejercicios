@@ -1,0 +1,18 @@
+Galletas Ducales, Deliciosas galletas semidulces bajas en azucares y sales añadidas., Pasabocas, 12000.0
+Coca Cola 3Lts,  Bebida refrescante azucarada y gaseosa., Bebidas, 9000.0
+Brisa 1.5Lts, Botella de agua purificada y tratada 100% natural., Bebidas, 2000.0
+Doritos, Deliciosos triangulitos tostados y llenos de un agradable sabor a queso., Pasabocas, 10000.0
+Trapero multiusos, Ergonomico trapero ideal para la limpieza en el hogar o la oficina facil de retorser., Aseo, 15000.0
+Escoba , El implemento ideal para la limpieza en el hogar incluye su mango y un cabezal extra., Aseo, 12000.0
+Recogedor multiusos, Novedoso producto el cual puede ser ideal para el aseo ya que ademas de recoger el mugre funciona como un recipiente para estos mismos., Aseo, 15000.0
+Aceite 3Lts, Ideal para el uso diario unas pocas gotas bastan para cualquier comida., Canasta Familiar, 27000.0
+Arroz Blanco, Ideal para acompañar con cualquier comida cultivado y tratado de manera natural., Canasta Familiar, 22000.0
+Papel Higienico 12Rollos, Triple hoja suave al tacto y con una fragancia floral., Aseo, 21000.0
+Shampoo , Aroma floral una gota basta para hacer la suficiente espumas necesaria para su uso., Aseo, 17000.0
+Manzana Roja, Fruta fresca recien traida del campo., Frutas, 1500.0
+Manzana Verde, Fruta fresca recien traida del campo., , 1500.0
+Pera, Fruta fresca recien traida del campo., Frutas, 1400.0
+Piña, Fruta fresca recien traida del campo., Frutas, 4000.0
+Banano, Fruta fresca recien traida del campo., Frutas, 500.0
+Galletas, Dulces, Pasabocas, 2500.0
+

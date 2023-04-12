@@ -1,0 +1,7 @@
+jota,12,admin
+alma,21,usuario
+lisandro,23,admin
+pablo,12,usuario
+steven,13,usuario
+cruz,diaz,admin
+zapato,12,usuario
